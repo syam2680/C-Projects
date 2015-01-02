@@ -16,6 +16,9 @@ double factorial(int num){
 
 int main(){
 	int x=10;
+	printf("C program to calculate the Sum -> 1-x2/2!+x4/4!-x6/6!+x8/8!-x10/10!\n");
+	printf("Enter the value of x:\n");
+	scanf("%d",&x);
 	double sum=1;
     int exponent=0;
     for(int i=1;i<=5;i++){
