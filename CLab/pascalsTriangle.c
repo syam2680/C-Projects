@@ -1,3 +1,9 @@
+/*
+/ GCD.c: Syam Kumar M
+/ Description: C program to generate Pascal’s triangle.
+*/
+
+
 #include<stdio.h>
 #include<stdlib.h>
 
