@@ -1,5 +1,5 @@
 /*
-/ GCD.c: Syam Kumar M
+/ pascalsTriangle.c: Syam Kumar M
 / Description: C program to generate Pascal’s triangle.
 */
 
